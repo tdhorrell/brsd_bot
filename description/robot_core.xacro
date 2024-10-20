@@ -218,7 +218,6 @@
 
     <!-- front left steering -->
 
-
     <link name="front_left_wheel">
       <collision>
         <origin xyz="0 0 0" rpy="${PI/2} 0 ${PI/2}"/>
